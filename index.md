@@ -9,6 +9,11 @@
 ---
 ### Work Experience
 
+
+---
+### Recent Projects
+
+
 - [Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
 
 ---
