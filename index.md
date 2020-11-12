@@ -9,7 +9,7 @@
 ---
 ### Work Experience
 
-- [Presentation](http://bloose.github.io/pdfs/sample_presentation.pdf)
+- [Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
 
 ---
 
