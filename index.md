@@ -3,19 +3,13 @@ Commercial Diver and fisheries biologist who is currently attending the Universi
 ---
 ### Education
 B.S. Biology from the University of Rhode Island
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Work Experience
-Commercial/Scientific Diver
-Fisheries Observer
+Commercial/Scientific Diver and Fisheries Observer
 ---
 ### Recent Projects
-Block Island Wind Farm Environmental Impact Survey
-Grasse River Mussel Relocation
-Aquatic Invasive Species Removal in Wachusett Reservoir
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+Block Island Wind Farm Environmental Impact Survey, Grasse River Mussel Relocation, and Aquatic Invasive Species Removal in Wachusett Reservoir
 
 ---
 
